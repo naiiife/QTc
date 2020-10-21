@@ -13,3 +13,5 @@ Data source: CiPA ECG Validation Study. Version: 1.0.0. https://physionet.org/co
 simulation: to run simulation.
 
 realdata: to run real data analysis.
+
+The code should be run using Matlab.
